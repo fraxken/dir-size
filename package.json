@@ -1,0 +1,26 @@
+{
+  "name": "dir-size",
+  "version": "1.0.0",
+  "description": "Node.js Package to get the size of a given Directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/dir-size.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraxken/dir-size/issues"
+  },
+  "homepage": "https://github.com/fraxken/dir-size#readme",
+  "devDependencies": {
+    "@slimio/eslint-config": "^2.0.4",
+    "@types/node": "^12.0.0",
+    "eslint": "^5.16.0",
+    "get-folder-size": "^2.0.1"
+  }
+}
