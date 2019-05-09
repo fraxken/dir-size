@@ -1,5 +1,5 @@
 {
-  "name": "dir-size",
+  "name": "get-dir-size",
   "version": "1.0.0",
   "description": "Node.js Package to get the size of a given Directory",
   "main": "index.js",
